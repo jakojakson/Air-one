@@ -3,7 +3,7 @@
 
 jakojakson - Jakson Lohan Bittencourt
 
-![](https://www.spaceappsbrazil.org/wp-content/uploads/2020/08/NASA_SPACE_APPS-8-1.png)
+
 
 ---------
 Este repositório tem como objetivo, apresentar o [firmware](https://bitbucket.org/Nazarique/projeto-air/src/master/) para o protótipo de respirador mecânico **AIR-ONE**.
