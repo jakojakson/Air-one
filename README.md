@@ -16,7 +16,7 @@ O [COLLAB](https://linktr.ee/collabutfpr), por intermédio dos alunos de Engenha
 Em parceria com a DAF - Ponta Grossa, que propôs o desafio, a equipe que pertence ao COLLAB aceitou o mesmo. Em 26 dias o protótipo estava pronto e hoje foi apresentado para a comunidade empresarial, secretários e autoridades da saúde, com a ilustre presença do nosso prefeito e do diretor do nosso campus.
 
 
-<div style="text-align:center"><img src="https://instagram.fbfh3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/95014817_707575979781993_190914529344491806_n.jpg?tp=1&_nc_ht=instagram.fbfh3-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=k9RCiT2B6fEAX_xjplk&edm=AP_V10EAAAAA&ccb=7-4&oh=577ad4eae820b0457401261709f42577&oe=609623AF&_nc_sid=4f375e" /></div>
-
-
+<p align="center">
+  <img src="https://instagram.fbfh3-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/95014817_707575979781993_190914529344491806_n.jpg?tp=1&_nc_ht=instagram.fbfh3-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=k9RCiT2B6fEAX_xjplk&edm=AP_V10EAAAAA&ccb=7-4&oh=577ad4eae820b0457401261709f42577&oe=609623AF&_nc_sid=4f375e" />
+</p>
 
